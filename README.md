@@ -19,12 +19,12 @@ Será necessário utilizar um leitor de python ou uma IDE para desenvolvimento (
 **Instalação**
 
 ```
-- Instale o arquivo projeto.py em uma pasta segura.
+- Instale o arquivo project.py em uma pasta segura.
 ```
 **Execução por CMD**
 ```
 - Encontre a pasta do projeto e rode o seguinte comando: cd caminho/para/a/sua/pasta (troque as informações de acordo com o caminho para a pasta)
-- Após isso, execute o seguinte código: python projeto.py
+- Após isso, execute o seguinte código: python project.py
 ```
 
 
